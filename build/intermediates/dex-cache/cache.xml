@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ahmadtaquee/Desktop/ECNOTES/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="417e3a31631acd2dd54bf84e233a5c1ce95c498a">
+        <dex dex="/Users/ahmadtaquee/Desktop/ECNOTES/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_582f6077c356dc289d6d64a8a24f639f05d66f20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ahmadtaquee/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.5.2/ecf534dba3a8446ce84cbb797d314763be212a68/glide-3.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="/Users/ahmadtaquee/Desktop/ECNOTES/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.5.2_5a6abcabf43ca47020ab4d761af174038f236a08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ahmadtaquee/Desktop/ECNOTES/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/ahmadtaquee/Desktop/ECNOTES/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_eaa5d1ab81a9663d824a4343e0b719038a7c8a8a/classes.dex" />
+    </item>
+
+</items>
